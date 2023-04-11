@@ -1,0 +1,38 @@
+<main>
+    <section class="hero" id="home">
+        <div class="hero-text">
+            <h1>Welcome to AutoGroAI</h1>
+            <p>Revolutionizing agriculture through plant data on Blockchain and AI-powered solutions.</p>
+            <a href="#crowdfunding" class="btn">Support Our Project</a>
+        </div>
+    </section>
+
+    <section class="about" id="about">
+        <h2>About AutoGroAI</h2>
+        <p>AutoGroAI is an innovative project that aims to revolutionize the agriculture industry by placing plant data on Blockchain, providing transparency and security to the data exchange process. As we progress, our ultimate goal is to integrate advanced AI algorithms and technologies to optimize crop growth, reduce waste, and improve overall sustainability.</p>
+    </section>
+
+    <section class="features" id="features">
+        <h2>Features</h2>
+        <div class="feature">
+            <img src="images/feature1.png" alt="Feature 1">
+            <h3>Plant Data on Blockchain</h3>
+            <p>Our platform securely stores and manages plant data on the Blockchain, ensuring transparency, traceability, and tamper-proof data exchange between stakeholders in the agriculture industry.</p>
+        </div>
+        <div class="feature">
+            <img src="images/feature2.png" alt="Feature 2">
+            <h3>AI-Powered Crop Analysis (Future Goal)</h3>
+            <p>AutoGroAI's advanced algorithms will analyze various factors such as soil health, weather patterns, and crop growth to optimize farming techniques and maximize yields in the future.</p>
+        </div>
+        <div class="feature">
+            <img src="images/feature3.png" alt="Feature 3">
+            <h3>Sustainable Farming Practices</h3>
+            <p>Through data-driven insights, AutoGroAI will promote environmentally-friendly farming practices, contributing to a more sustainable future for agriculture.</p>
+        </div>
+    </section>
+
+    <section class="crowdfunding" id="crowdfunding">
+        <h2>Crowdfunding</h2>
+        <p>We believe that sustainable agriculture is a shared responsibility, and we invite you to be a part of our journey. AutoGroAI is currently seeking support through crowdfunding to further develop our platform and expand its reach. By contributing to our project, you will be helping to shape the future of agriculture and create a more sustainable world for generations to come.</p>
+        <a href="crowdfunding.html" class="btn">Learn More & Support</a>
+    </section>
